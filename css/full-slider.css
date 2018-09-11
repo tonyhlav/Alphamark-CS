@@ -1,0 +1,114 @@
+/*!
+ * Start Bootstrap - Full Slider (https://startbootstrap.com/template-overviews/full-slider)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-full-slider/blob/master/LICENSE)
+ */
+
+.carousel-item {
+  height: 100vh;
+  min-height: 300px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.logo-alpha{
+  margin:0 auto;
+}
+
+
+.nav-he{
+  height: 100vh;
+}
+
+.overlay{
+  background: #0000009e;
+height: 100%;
+width: 100%;
+position: absolute;
+display: block;
+top: 0;
+bottom: 0;
+left: 0;
+right: 0;
+z-index: 1;
+}
+
+h1{
+  color: #fff !important;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.nav-mymy{
+  margin: 0 auto !important;
+}
+
+.bg-dark-my{
+  background: rgba(18, 21, 27, 0.9);
+}
+
+.bg-dark-2{
+    /* background: rgba(18, 21, 27, 0.32); */
+        border-top: 1px solid #ffffff0d;
+}
+
+.logo-height{
+  height: 64px;
+}
+
+.btn-cen{
+  margin: 0 auto !important;
+}
+
+.pdb-my{
+      padding-bottom: 40px;
+}
+
+
+
+.above-emi {
+  text-align: center;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 500;
+    color: #d9b98e;
+    text-transform: uppercase;
+    font-size: 14px;
+    letter-spacing: 4.2px !important;
+    line-height: 2px !important;
+    margin: 0 auto;
+}
+
+
+.footer-blah{
+  position: absolute;
+  width: 100%;
+  bottom: 0;
+  z-index: 999999;
+  display: inline-block;
+}
+
+.copyright a{
+  color: #D9B98E;
+}
+
+.copyright a:hover{
+  color: #D9B98E;
+  opacity: 0.9;
+  transition: all 0.3s ease-in-out;
+  text-decoration: none;
+}
+
+.copyright a{
+  line-height: 2px !important;
+}
+
+.mycor a {
+    color: #fff;
+    letter-spacing: 2.1px;
+    transition: all 0.18s ease-in-out;
+    font-size: 0.875em;
+    padding: 0 12px;
+}
